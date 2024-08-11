@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Arpit</h1>
-<h3 align="center">A passionate Full Stack developer from India loves to learn and work with WebRTC</h3>
+<h1 align="center">Hi 👋, I'm Tejas</h1>
+<h3 align="center">A passionate Full Stack developer who loves building stuff.</h3>
 
 <p align="left"> <a href="https://twitter.com/git_cuber" target="blank"><img src="https://img.shields.io/twitter/follow/git_cuber?logo=twitter&style=for-the-badge" alt="git_cuber" /></a> </p>
 
-- 🌱 I’m currently learning **React, NextJS, WebRTC**
+- 🌱 I’m currently learning **tRPC** and practicing building Full Stack apps.
 
-- 👨‍💻 All of my projects are available at [https://github.com/gitcuber369](https://github.com/gitcuber369)
+- 👨‍💻 All of my projects are available at [https://github.com/Tejas73/Tejas73](https://github.com/Tejas73/Tejas73)
 
-- 💬 Ask me about **WebRTC**
-
-- 📫 How to reach me **arpitchaudhary2003@gmail.com**
+- 📫 How to reach me **tejasbhoyar19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
