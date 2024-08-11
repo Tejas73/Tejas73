@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/git_cuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="git_cuber" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gitcuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gitcuber" height="30" width="40" /></a>
+<a href="https://twitter.com/TejasBhoyar2k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TejasBhoyar2k1" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/tejas-bhoyar-b7baa61aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tejas Bhoyar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
