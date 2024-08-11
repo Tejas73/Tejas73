@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">A passionate Full Stack developer who loves building stuff.</h3>
 
-<p align="left"> <a href="https://twitter.com/TejasBhoyar2k1" target="blank"><img src="https://img.shields.io/twitter/follow/git_cuber?logo=twitter&style=for-the-badge" alt="git_cuber" /></a> </p>
+<p align="left"> <a href="https://twitter.com/TejasBhoyar2k1" target="blank"><img src="https://img.shields.io/twitter/follow/git_cuber?logo=twitter&style=for-the-badge" alt="TejasBhoyar2k1" /></a> </p>
 
 - 🌱 I’m currently learning **tRPC** and practicing building Full Stack apps.
 
